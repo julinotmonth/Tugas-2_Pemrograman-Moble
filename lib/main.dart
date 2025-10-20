@@ -52,7 +52,7 @@ class ProfilMahasiswaPage extends StatelessWidget {
             ),
             const SizedBox(height: 25),
             const Text(
-              "Mohammad Krisna Rifkiansyah",
+              "Akhmad Jazuli Al Faris",
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.w600,
@@ -60,7 +60,7 @@ class ProfilMahasiswaPage extends StatelessWidget {
             ),
             const SizedBox(height: 6),
             const Text(
-              "221080200046",
+              "221080200025",
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.grey,
